@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <name>DEFJAY Radio</name>    
+        <location>USA</location>
+        <url>http://tuner.defjay.com:80/</url>
+    </item>
+    <item>
+        <name>Bridge FM</name>
+        <location>Bridgend</location>
+        <url>http://icy-e-04.sharp-stream.com:80/tcbridge.mp3</url>
+    </item>
+    <item>
+        <name>Capital FM</name>
+        <location>London</location>
+        <url>http://ice-the.musicradio.com:80/CapitalMP3</url>
+    </item>
+    <item>
+        <name>Juventus Radio</name>
+        <location>Budapest</location>
+        <url>http://tuner.hit104.com:80</url>
+    </item> 
+    <item>
+        <name>1POWER</name>
+        <location>New York</location>
+        <url>http://powerhitz.powerhitz.com:5040</url>
+    </item>
+    <item>
+        <name>Capital xtra</name>
+        <location>London</location>
+        <url>http://media-sov.musicradio.com:80/CapitalXTRANationalMP3</url>
+    </item>
+    <item>
+        <name>Hit FM</name>
+        <location>Hasselt</location>
+        <url>http://94.23.48.124:8000/</url>
+    </item>
+	<item>
+        <name>FM104</name>
+        <location>Dublin</location>
+        <url>http://31.14.40.241:6184/</url>
+    </item>
+</menu>
